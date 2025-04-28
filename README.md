@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../CV Tailwind/img/Black and Yellow Web Developer LinkedIn Banner.png" alt="Welcome Banner" width="100%" />
+  <img src="./img/banner.png" alt="Welcome Banner" width="100%" />
 </p>
 
 # Hi there 👋, I'm Dimitris Anagnostopoulos!
