@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAGl8uGJDis/4i2Yua9544i14i-ve4AP6w/view?utm_content=DAGl8uGJDis&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc777e70922" alt="Welcome Banner" width="100%" />
+  <img src="../CV Tailwind/img/Black and Yellow Web Developer LinkedIn Banner.png" alt="Welcome Banner" width="100%" />
 </p>
 
 # Hi there 👋, I'm Dimitris Anagnostopoulos!
